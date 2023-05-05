@@ -1,2 +1,2 @@
 # nodejs-typescript-template
-This is a personaly templete for init my projects.
+This is a personally template for init my projects.
